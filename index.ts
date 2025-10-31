@@ -1,0 +1,1 @@
+type Wrapper<T> = { contents: T }
